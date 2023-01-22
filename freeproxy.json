@@ -1,103 +1,13 @@
 [
   {
-    "proxyhost": "173.212.200.30",
-    "proxyport": 3128,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "103.36.8.131",
-    "proxyport": 3125,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "43.225.66.134",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "121.204.148.136",
-    "proxyport": 9002,
-    "country": "China"
-  },
-  {
-    "proxyhost": "51.91.109.83",
-    "proxyport": 80,
-    "country": "France"
-  },
-  {
-    "proxyhost": "103.146.182.98",
-    "proxyport": 3128,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "45.191.47.1",
-    "proxyport": 999,
-    "country": "Colombia"
-  },
-  {
-    "proxyhost": "202.62.11.203",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "181.228.149.59",
-    "proxyport": 8080,
-    "country": "Argentina"
-  },
-  {
-    "proxyhost": "136.228.234.29",
-    "proxyport": 8009,
-    "country": "United Kingdom"
-  },
-  {
-    "proxyhost": "8.242.170.202",
-    "proxyport": 999,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "104.223.135.178",
-    "proxyport": 10000,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "196.216.132.9",
-    "proxyport": 8080,
-    "country": "South Africa"
-  },
-  {
-    "proxyhost": "103.168.129.123",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "118.173.230.246",
-    "proxyport": 8080,
-    "country": "Thailand"
-  },
-  {
-    "proxyhost": "202.1.197.227",
-    "proxyport": 80,
-    "country": "Maldives"
-  },
-  {
-    "proxyhost": "206.42.43.215",
-    "proxyport": 3128,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "34.146.19.255",
+    "proxyhost": "34.84.56.140",
     "proxyport": 3128,
     "country": "Japan"
   },
   {
-    "proxyhost": "188.0.147.102",
-    "proxyport": 3128,
-    "country": "Kazakhstan"
-  },
-  {
-    "proxyhost": "51.158.154.173",
-    "proxyport": 3128,
-    "country": "France"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
     "proxyhost": "34.146.180.162",
@@ -105,474 +15,9 @@
     "country": "Japan"
   },
   {
-    "proxyhost": "111.225.152.239",
-    "proxyport": 8089,
-    "country": "China"
-  },
-  {
-    "proxyhost": "191.252.92.66",
-    "proxyport": 3128,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "191.252.195.53",
-    "proxyport": 8888,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "88.99.34.203",
-    "proxyport": 3128,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "123.182.59.136",
-    "proxyport": 8089,
-    "country": "China"
-  },
-  {
-    "proxyhost": "103.247.217.46",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "5.58.110.249",
-    "proxyport": 8080,
-    "country": "Ukraine"
-  },
-  {
-    "proxyhost": "47.114.89.183",
-    "proxyport": 8080,
-    "country": "China"
-  },
-  {
-    "proxyhost": "140.227.80.237",
-    "proxyport": 3180,
-    "country": "Japan"
-  },
-  {
-    "proxyhost": "45.169.148.2",
-    "proxyport": 999,
-    "country": "Chile"
-  },
-  {
-    "proxyhost": "122.3.41.154",
-    "proxyport": 8090,
-    "country": "Philippines"
-  },
-  {
-    "proxyhost": "143.198.213.78",
-    "proxyport": 1080,
-    "country": "Singapore"
-  },
-  {
-    "proxyhost": "177.131.22.37",
-    "proxyport": 3128,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "2.56.62.76",
-    "proxyport": 3128,
-    "country": "Turkey"
-  },
-  {
-    "proxyhost": "103.157.96.97",
-    "proxyport": 3128,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "89.132.144.41",
-    "proxyport": 9090,
-    "country": "Hungary"
-  },
-  {
-    "proxyhost": "111.225.153.120",
-    "proxyport": 8089,
-    "country": "China"
-  },
-  {
-    "proxyhost": "113.125.8.114",
-    "proxyport": 9002,
-    "country": "China"
-  },
-  {
-    "proxyhost": "188.132.222.23",
-    "proxyport": 8080,
-    "country": "Turkey"
-  },
-  {
-    "proxyhost": "182.253.79.18",
-    "proxyport": 3128,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "80.78.73.91",
-    "proxyport": 1080,
-    "country": "Albania"
-  },
-  {
-    "proxyhost": "159.89.132.108",
-    "proxyport": 8989,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "103.94.125.110",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "103.109.95.133",
-    "proxyport": 8080,
-    "country": "Bangladesh"
-  },
-  {
-    "proxyhost": "111.225.153.249",
-    "proxyport": 8089,
-    "country": "China"
-  },
-  {
-    "proxyhost": "45.167.253.225",
-    "proxyport": 999,
-    "country": "Mexico"
-  },
-  {
-    "proxyhost": "104.211.211.118",
-    "proxyport": 3128,
-    "country": "India"
-  },
-  {
-    "proxyhost": "95.56.254.139",
-    "proxyport": 3128,
-    "country": "Kazakhstan"
-  },
-  {
-    "proxyhost": "36.93.133.170",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "5.9.94.91",
-    "proxyport": 3128,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "183.221.242.103",
-    "proxyport": 9443,
-    "country": "China"
-  },
-  {
-    "proxyhost": "81.169.204.107",
-    "proxyport": 8080,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "117.157.197.18",
-    "proxyport": 3128,
-    "country": "China"
-  },
-  {
-    "proxyhost": "140.227.33.174",
-    "proxyport": 1000,
-    "country": "Japan"
-  },
-  {
-    "proxyhost": "166.104.231.44",
-    "proxyport": 8888,
-    "country": "Korea"
-  },
-  {
-    "proxyhost": "212.174.242.114",
-    "proxyport": 8080,
-    "country": "Turkey"
-  },
-  {
-    "proxyhost": "175.6.173.23",
-    "proxyport": 9002,
-    "country": "China"
-  },
-  {
-    "proxyhost": "103.171.150.164",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "136.228.234.29",
-    "proxyport": 8082,
-    "country": "United Kingdom"
-  },
-  {
-    "proxyhost": "195.154.255.194",
-    "proxyport": 8000,
-    "country": "France"
-  },
-  {
-    "proxyhost": "181.115.67.9",
-    "proxyport": 999,
-    "country": "Honduras"
-  },
-  {
-    "proxyhost": "139.255.61.166",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "217.251.108.243",
-    "proxyport": 8080,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "185.24.93.178",
-    "proxyport": 3128,
-    "country": "Russia"
-  },
-  {
-    "proxyhost": "45.92.108.112",
-    "proxyport": 8080,
-    "country": "Switzerland"
-  },
-  {
-    "proxyhost": "34.29.41.58",
-    "proxyport": 3128,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "154.16.180.182",
-    "proxyport": 3128,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "80.252.5.34",
-    "proxyport": 7001,
-    "country": "Poland"
-  },
-  {
-    "proxyhost": "103.75.197.248",
-    "proxyport": 3128,
-    "country": "India"
-  },
-  {
-    "proxyhost": "47.90.126.138",
-    "proxyport": 9090,
-    "country": "Hong Kong"
-  },
-  {
-    "proxyhost": "115.144.101.200",
-    "proxyport": 10000,
-    "country": "Korea"
-  },
-  {
-    "proxyhost": "144.91.81.25",
-    "proxyport": 3128,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "103.87.201.185",
-    "proxyport": 80,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "14.140.131.82",
-    "proxyport": 3128,
-    "country": "India"
-  },
-  {
-    "proxyhost": "41.242.116.150",
-    "proxyport": 50000,
-    "country": "Mayotte"
-  },
-  {
-    "proxyhost": "5.195.40.27",
-    "proxyport": 8080,
-    "country": "UAE"
-  },
-  {
-    "proxyhost": "209.97.171.82",
-    "proxyport": 8080,
-    "country": "Singapore"
-  },
-  {
-    "proxyhost": "31.186.239.246",
-    "proxyport": 8080,
-    "country": "Netherlands"
-  },
-  {
-    "proxyhost": "97.76.251.138",
-    "proxyport": 8080,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "5.44.62.166",
-    "proxyport": 8080,
-    "country": "Russia"
-  },
-  {
-    "proxyhost": "185.15.247.148",
-    "proxyport": 9090,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "45.156.29.108",
-    "proxyport": 9090,
-    "country": "Turkey"
-  },
-  {
-    "proxyhost": "41.186.44.106",
-    "proxyport": 3128,
-    "country": "Rwanda"
-  },
-  {
-    "proxyhost": "112.87.140.163",
-    "proxyport": 9401,
-    "country": "China"
-  },
-  {
-    "proxyhost": "157.245.27.9",
-    "proxyport": 3128,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "116.202.165.119",
-    "proxyport": 3124,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "111.225.152.105",
-    "proxyport": 8089,
-    "country": "China"
-  },
-  {
-    "proxyhost": "109.111.8.7",
-    "proxyport": 8080,
-    "country": "Russia"
-  },
-  {
-    "proxyhost": "117.74.65.207",
-    "proxyport": 1080,
-    "country": "China"
-  },
-  {
-    "proxyhost": "62.73.3.10",
-    "proxyport": 1616,
-    "country": "France"
-  },
-  {
-    "proxyhost": "38.52.162.247",
-    "proxyport": 999,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "201.229.250.19",
-    "proxyport": 8080,
-    "country": "Dominican Republic"
-  },
-  {
-    "proxyhost": "51.81.32.81",
-    "proxyport": 8888,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "194.169.167.5",
-    "proxyport": 8080,
-    "country": "Albania"
-  },
-  {
-    "proxyhost": "202.131.159.230",
-    "proxyport": 80,
-    "country": "India"
-  },
-  {
-    "proxyhost": "211.60.235.250",
-    "proxyport": 808,
-    "country": "Korea"
-  },
-  {
-    "proxyhost": "45.55.111.60",
-    "proxyport": 6868,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "200.105.215.22",
-    "proxyport": 33630,
-    "country": "Bolivia"
-  },
-  {
-    "proxyhost": "179.49.144.210",
-    "proxyport": 3128,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "194.87.188.114",
-    "proxyport": 8000,
-    "country": "Czech"
-  },
-  {
-    "proxyhost": "104.238.183.155",
-    "proxyport": 8888,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "5.9.87.30",
-    "proxyport": 9100,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "129.80.58.106",
-    "proxyport": 3128,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "190.217.105.194",
-    "proxyport": 8080,
-    "country": "Colombia"
-  },
-  {
-    "proxyhost": "35.221.104.199",
-    "proxyport": 3128,
-    "country": "Japan"
-  },
-  {
-    "proxyhost": "194.5.176.88",
-    "proxyport": 32654,
-    "country": "Iran"
-  },
-  {
-    "proxyhost": "118.31.2.38",
-    "proxyport": 8999,
-    "country": "China"
-  },
-  {
-    "proxyhost": "8.242.178.122",
-    "proxyport": 999,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "165.22.189.59",
-    "proxyport": 999,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "185.150.130.103",
-    "proxyport": 808,
-    "country": "Turkey"
-  },
-  {
-    "proxyhost": "45.171.146.192",
-    "proxyport": 8083,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "84.54.185.203",
-    "proxyport": 8080,
-    "country": "Bulgaria"
-  },
-  {
-    "proxyhost": "45.70.236.194",
-    "proxyport": 999,
-    "country": "Ecuador"
-  },
-  {
-    "proxyhost": "88.150.15.30",
-    "proxyport": 80,
-    "country": "Germany"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
     "proxyhost": "140.227.25.191",
@@ -580,159 +25,19 @@
     "country": "Japan"
   },
   {
-    "proxyhost": "111.225.152.10",
-    "proxyport": 8089,
-    "country": "China"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
-    "proxyhost": "139.255.61.166",
-    "proxyport": 80,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "103.118.127.218",
-    "proxyport": 6969,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "195.154.114.49",
-    "proxyport": 8123,
-    "country": "France"
-  },
-  {
-    "proxyhost": "93.86.63.73",
-    "proxyport": 8080,
-    "country": "Serbia"
-  },
-  {
-    "proxyhost": "103.226.232.172",
-    "proxyport": 3125,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "45.167.253.129",
-    "proxyport": 999,
-    "country": "Mexico"
-  },
-  {
-    "proxyhost": "36.95.15.149",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "167.172.79.231",
-    "proxyport": 1080,
-    "country": "Singapore"
-  },
-  {
-    "proxyhost": "173.212.224.134",
-    "proxyport": 3129,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "145.40.121.89",
-    "proxyport": 3128,
-    "country": "Brazil"
-  },
-  {
-    "proxyhost": "192.248.95.1",
-    "proxyport": 3128,
-    "country": "Sri Lanka"
-  },
-  {
-    "proxyhost": "198.59.191.234",
-    "proxyport": 8080,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "139.99.236.128",
-    "proxyport": 3128,
-    "country": "Australia"
-  },
-  {
-    "proxyhost": "89.175.164.38",
-    "proxyport": 8080,
-    "country": "Russia"
-  },
-  {
-    "proxyhost": "79.120.177.106",
-    "proxyport": 8080,
-    "country": "Hungary"
-  },
-  {
-    "proxyhost": "190.104.245.86",
-    "proxyport": 8080,
-    "country": "Argentina"
-  },
-  {
-    "proxyhost": "103.168.58.47",
-    "proxyport": 3128,
-    "country": "Viet Nam"
-  },
-  {
-    "proxyhost": "125.74.28.156",
-    "proxyport": 9002,
-    "country": "China"
-  },
-  {
-    "proxyhost": "74.103.66.15",
-    "proxyport": 80,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "103.159.195.25",
-    "proxyport": 8080,
-    "country": "Indonesia"
-  },
-  {
-    "proxyhost": "35.200.4.163",
+    "proxyhost": "34.84.142.87",
     "proxyport": 3128,
     "country": "Japan"
   },
   {
-    "proxyhost": "185.190.38.150",
-    "proxyport": 8080,
-    "country": "Albania"
-  },
-  {
-    "proxyhost": "176.192.70.58",
-    "proxyport": 8007,
-    "country": "Russia"
-  },
-  {
-    "proxyhost": "45.119.9.158",
-    "proxyport": 808,
-    "country": "India"
-  },
-  {
-    "proxyhost": "219.153.109.50",
-    "proxyport": 9002,
-    "country": "China"
-  },
-  {
-    "proxyhost": "45.84.241.2",
-    "proxyport": 3128,
-    "country": "United States"
-  },
-  {
-    "proxyhost": "85.14.243.31",
-    "proxyport": 3128,
-    "country": "Germany"
-  },
-  {
-    "proxyhost": "217.117.15.98",
-    "proxyport": 8080,
-    "country": "Nigeria"
-  },
-  {
-    "proxyhost": "60.164.247.52",
-    "proxyport": 9002,
-    "country": "China"
-  },
-  {
-    "proxyhost": "191.252.193.160",
-    "proxyport": 8888,
-    "country": "Brazil"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
     "proxyhost": "34.146.64.228",
@@ -740,19 +45,29 @@
     "country": "Japan"
   },
   {
-    "proxyhost": "103.138.41.132",
-    "proxyport": 8080,
-    "country": "Indonesia"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
-    "proxyhost": "181.78.15.14",
-    "proxyport": 8080,
-    "country": "Colombia"
+    "proxyhost": "140.227.61.156",
+    "proxyport": 23456,
+    "country": "Japan"
   },
   {
-    "proxyhost": "177.234.209.245",
-    "proxyport": 999,
-    "country": "Ecuador"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
+  },
+  {
+    "proxyhost": "164.70.122.6",
+    "proxyport": 3128,
+    "country": "Japan"
+  },
+  {
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
     "proxyhost": "34.84.172.172",
@@ -760,18 +75,13 @@
     "country": "Japan"
   },
   {
-    "proxyhost": "182.90.224.115",
-    "proxyport": 3128,
-    "country": "China"
+    "proxyhost": "",
+    "proxyport": "",
+    "country": ""
   },
   {
-    "proxyhost": "202.142.158.114",
-    "proxyport": 8080,
-    "country": "Pakistan"
-  },
-  {
-    "proxyhost": "191.97.14.26",
-    "proxyport": 999,
-    "country": "Colombia"
+    "proxyhost": "140.227.80.237",
+    "proxyport": 3180,
+    "country": "Japan"
   }
 ]
